@@ -9,7 +9,6 @@
 // -------------------------------------------------------------------------------------
 //
 // (c) 2021, Pavol Federl, pfederl@ucalgary.ca
-// Do not distribute this file.
 
 #include "fatsim.h"
 #include <cstdio>
