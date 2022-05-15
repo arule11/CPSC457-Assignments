@@ -17,7 +17,6 @@
 
 /*
 * Athena McNeil-Roberts
-* 30042085
 */
 
 #include "calcpi.h"
