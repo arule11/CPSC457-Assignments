@@ -1,7 +1,6 @@
 #include "safecall.h"
 /*
 * By: Athena McNeil-Roberts
-* ID# 30042085
 */
 
 /*
