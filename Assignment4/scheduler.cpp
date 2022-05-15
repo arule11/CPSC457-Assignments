@@ -1,7 +1,6 @@
 /*
 * CPSC 457 - scheduler.cpp
 * Athena McNeil-Roberts
-* 30042085
 */
 
 #include "scheduler.h"
