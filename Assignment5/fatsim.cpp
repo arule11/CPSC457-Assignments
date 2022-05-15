@@ -1,6 +1,5 @@
 /*
 * Athena Mc5eil-Roberts
-* 30042085
 * cpsc457 assignment 5
 */
 
