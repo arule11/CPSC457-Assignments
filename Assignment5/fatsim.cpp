@@ -1,5 +1,5 @@
 /*
-* Athena Mc5eil-Roberts
+* Athena McNeil-Roberts
 * cpsc457 assignment 5
 */
 
