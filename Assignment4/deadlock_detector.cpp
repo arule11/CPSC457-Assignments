@@ -1,7 +1,6 @@
 /*
 * CPSC457 Assignment4 - deadlock_detector.cpp
 * Athena McNeil-Roberts
-* 30042085
 */
 
 #include "deadlock_detector.h"
