@@ -4,7 +4,6 @@
 
 /*
 * Athena McNeil-Roberts
-* 30042085
 */
 
 #include "detectPrimes.h"
