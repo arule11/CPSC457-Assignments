@@ -1,7 +1,7 @@
 /*
 * File name: fast-pali.cpp
 * CPSC 457 Assignment 1
-* Completed by: Athena McNeil-Roberts 30042085
+* Completed by: Athena McNeil-Roberts
 */
 
 #include <unistd.h>
